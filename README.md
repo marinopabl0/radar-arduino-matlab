@@ -1,18 +1,21 @@
-------------------------------------------------
-                         RADAR
-------------------------------------------------
-En este repositorio se encuentra el código fuente:
-  radar_1.ino: Es el código que se sube a la placa arduino
-  radar_1.m: Es el código que se ejecuta en matlab
+<h3>RADAR CON ARDUINO Y MATLAB</h3>
 
+<p>En este repositorio se encuentra el código fuente:</p>
+<ol>
+  <li>radar_1.ino: Es el código que se sube a la placa arduino</li>
+  <li> radar_1.m: Es el código que se ejecuta en matlab</li>
+</ol>
+ 
 En el radar se utilizaron los siguientes:
-HADWARE:
-  -Placa Arduino
-  -Servo Motor
-  -Ultrasonico
-  -Protoboard
-  -Cables
-SOFWARE:
-   -IDE Arduino
-   -Matlab
-
+<h5>HADWARE:</h5>
+  <ol>
+    <li>-Placa Arduino</li>
+    <li>-Servo Motor</li>
+    <li>-Ultrasonico</li>
+    <li>-Protoboard</li>
+</ol>
+<h5>SOFWARE:</h5>   
+<ol>
+      <li>-IDE Arduino</li>
+      <li>-Matlab</li>
+</ol>
