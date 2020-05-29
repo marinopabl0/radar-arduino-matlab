@@ -1,6 +1,6 @@
 <h3>RADAR CON ARDUINO Y MATLAB</h3>
 
-<p>En este repositorio se encuentra el código fuente:</p>
+**En este repositorio se encuentra el código fuente:**
 <ol>
   <li>radar_1.ino: Es el código que se sube a la placa arduino</li>
   <li> radar_1.m: Es el código que se ejecuta en matlab</li>
