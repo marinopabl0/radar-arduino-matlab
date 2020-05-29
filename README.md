@@ -6,7 +6,7 @@
   <li> radar_1.m: Es el código que se ejecuta en matlab</li>
 </ol>
  
-En el radar se utilizaron los siguientes:
+**En el radar se utilizaron los siguientes:**
 <h5>HADWARE:</h5>
   <ol>
     <li>-Placa Arduino</li>
